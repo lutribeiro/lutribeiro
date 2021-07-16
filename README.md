@@ -3,7 +3,7 @@
 📝 I'm Computer Engineer student at UFPel <br />
 💻 I'm currently learning JavaScript and ReactJS <br />
 👩‍🚀 I'm Presidency Advisor at Hut8 - Empresa Junior da UFPel <br />
-🧉 I love beeing with my family, friends, pets and my *chimarrão*  <br />
+🧉 I love beeing with my family, friends, pets and my chimarrão  <br />
  <br />
  <br />
 
