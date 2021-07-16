@@ -7,4 +7,4 @@
  <br />
  <br />
 
->💡  **You can also find me on my** [LinkedIn](www.linkedin.com/in/luisatreptow) **or send an e-mail on** luisa.treptow@gmail.com
+>💡  **You can also find me on my** [LinkedIn](www.linkedin.com/in/luisatreptow) **or send an e-mail to** luisa.treptow@gmail.com
